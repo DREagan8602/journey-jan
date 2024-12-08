@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/journey-jan/static/css/main.aaeef0eb.css",
+    "main.js": "/journey-jan/static/js/main.22fdeb92.js",
+    "static/js/488.5c3b71fe.chunk.js": "/journey-jan/static/js/488.5c3b71fe.chunk.js",
+    "index.html": "/journey-jan/index.html",
+    "main.aaeef0eb.css.map": "/journey-jan/static/css/main.aaeef0eb.css.map",
+    "main.22fdeb92.js.map": "/journey-jan/static/js/main.22fdeb92.js.map",
+    "488.5c3b71fe.chunk.js.map": "/journey-jan/static/js/488.5c3b71fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaeef0eb.css",
+    "static/js/main.22fdeb92.js"
+  ]
+}
